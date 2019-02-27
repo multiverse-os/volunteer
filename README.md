@@ -1,3 +1,5 @@
+<p align="center"><img src="https://avatars2.githubusercontent.com/u/24763891?s=400&u=c1150e7da5667f47159d433d8e49dad99a364f5f&v=4" height="300" width="300"></p>
+
 # Multiverse OS: Volunteer 
 Multiverse OS is maintained by three lead developers who work part-time to full-time depending on schedule availability, who all hope to move to full-time as the project matures and the community grows. But by design, the Multiverse OS project, is open source; but also openly and transparently developed, community members with a variety of skill sets interested in contributing are welcome to volunteer their time, skills and other resources to the Multiverse OS and associated software in the Multiverse OS ecosystem. 
 

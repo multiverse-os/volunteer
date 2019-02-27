@@ -1,3 +1,6 @@
+**This is an older task list with relevant items and completed items that needs to be merged into the new active task list for conversion to JSON/YAML for eventual source data for the "skill-tree"-type community tasks system.**
+===============================================================================
+
 # todo
 
 * finsih setting up router controller
